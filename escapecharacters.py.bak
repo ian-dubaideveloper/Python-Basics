@@ -1,0 +1,15 @@
+
+
+#\n used for new line
+
+print("Ian\nDubai\nDeveloper")
+
+#\t used for tab space 
+
+print("Ian\tDubai\tDeveloper")
+
+#\b used for bolding
+
+print("Ian\b Dubai\b Developer")
+
+
